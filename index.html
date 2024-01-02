@@ -17,6 +17,7 @@
     <meta propertY="og: description" content="El Gremio 33: Juegos para todas las consolas. Descubre y disfruta de la mejor selección de juegos para cada plataforma en nuestra página.">
     <title>El Gremio 33 | Backups de videojuegos</title>
     <script src="carrito.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 
 <body>
@@ -34,14 +35,17 @@
                         <li class="nav-item display-6">
                             <a class="nav-link active" aria-current="page" href="../pages/juegos.html">Juegos</a>
                         </li>
-                        <li class="nav-item display-6">
-                            <a class="nav-link" href=""></a>
-                        </li>
                     </ul>
                     <form class="d-flex">
                         <input class="form-control me-2" type="search" id="buscarJuegos" placeholder="Buscar" aria-label="Search">
                         <button class="btn btn-outline-warning" type="submit">Buscar</button>
                     </form>
+                    <!-- Nuevo elemento para el botón de login -->
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item display-6">
+                            <button class="btn btn-outline-warning" id="login">Iniciar sesión</button>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </nav>
