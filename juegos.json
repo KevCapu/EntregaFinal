@@ -1,0 +1,18 @@
+[
+    { "nombre": "Breath of Fire 4", "precio": 30 },
+    { "nombre": "Twisted Metal", "precio": 29 },
+    { "nombre": "Digimon World 2", "precio": 39},
+    { "nombre": "Strider 2", "precio": 20},
+    { "nombre": "Persona 3", "precio": 29},
+    { "nombre": "DarkWatch", "precio": 19},
+    { "nombre": "Black", "precio": 29 },
+    { "nombre": "Mortal Kombat Armaggedon", "precio": 39},
+    { "nombre": "Borderlands", "precio": 49},
+    { "nombre": "Darksiders", "precio": 19},
+    { "nombre": "Shadow of Mordor", "precio": 29 },
+    { "nombre": "Fallout 3", "precio": 39},
+    { "nombre": "Ghostbusters", "precio": 19},
+    { "nombre": "RememberMe", "precio": 29},
+    { "nombre": "Left 4 Dead", "precio": 9 },
+    { "nombre": "Operation Darkness", "precio": 19}
+]
